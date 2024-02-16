@@ -3,6 +3,7 @@ from sovaflow.utils import cfg_logger,get_spatial_filter
 import mne
 import json
 import os
+imporrt numpy as np
 from bids import BIDSLayout
 from datetime import datetime
 import numpy as np
